@@ -1,0 +1,28 @@
+body{
+	margin: 0px;
+	background-image: url(pattern.png);
+}
+
+/*Header*/
+
+
+/*Main*/
+main{
+	text-align: center;
+	width: 100%;
+	margin-left: 15%;
+}
+
+.card{
+	height: 200px;
+}
+
+#title-logo{
+	margin-top: -10px;
+	width: 40%;
+}
+
+input{
+	border: 0;
+	border-bottom: 1px solid black;
+}
